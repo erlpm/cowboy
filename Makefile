@@ -49,7 +49,6 @@ define HEX_TARBALL_EXTRA_METADATA
 endef
 
 # Standard targets.
-
 include erlang.mk
 
 # Don't run the examples test suite by default.
